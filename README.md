@@ -27,10 +27,10 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/devrogermello/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/viviianealvesc/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/devrogermello/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/viviianealvesc/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
